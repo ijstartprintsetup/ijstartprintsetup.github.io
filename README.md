@@ -1,6 +1,6 @@
 #  Canon.com/ijsetup
 
-[![ij.start.canon](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon is one of the well-known brands in the printing devices that delivers outstanding printing, scanning and faxing quality for your documents. Setup your wireless Canon printer driver with your device (windows/mac/smartphone, etc) using the simple procedure from its official website: [Canon.com/ijsetup](https://ijstartprintsetup.github.io/) and get started with it today.
 
